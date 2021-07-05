@@ -1,0 +1,47 @@
+.store {
+    border: 2px solid black;
+    border-radius: 10px;
+    height: 110vh;
+    width: 70%;
+    background-color: #dddada;
+    box-shadow: 0 0 14px rgba(0, 0, 0, 0.5);
+    font-size: 20px;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 0 0 14px rgba(0, 0, 0, 0.5);
+    background-color: #dddada;
+    height: 30vh;
+}
+
+.circle {
+    border: 2px solid black;
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+}
+
+.rect {
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+}
+
+.remove-btn {
+    height: 10px;
+    z-index: 10;
+}
+
+.value {
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.bi {
+    cursor: pointer;
+}

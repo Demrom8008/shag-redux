@@ -1,0 +1,6 @@
+export const ADD_RECTANGLE = 'ADD_RECTANGLE'
+export const ADD_CIRCLE = 'ADD_CIRCLE'
+export const REMOVE_CIRCLE = 'REMOVE_CIRCLE'
+export const REMOVE_RECTANGLE = 'REMOVE_RECTANGLE'
+export const SUBMIT_FORM = 'SUBMIT_FORM'
+export const ADD_INFO = 'ADD_INFO'
